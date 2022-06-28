@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Simples</string>
+    <string name="hint_digite_qualquer_coisa">Digite qualquer coisa</string>
+    <string name="hint_digite_um_n_mero_inteiro">Digite um número inteiro</string>
+    <string name="on_off">On/Off</string>
+    <string name="entrar">entrar</string>
+    <string name="salvar_dados_digitados">salvar dados digitados?</string>
+</resources>
